@@ -9,7 +9,7 @@ ReactDOM.render(
   <BrowserRouter basename="reactjs/build">
     <App />
   </BrowserRouter>
-  document.getElementById("root")
+  document.getElementById("root");
 );
  
 
